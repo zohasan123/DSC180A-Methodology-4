@@ -14,11 +14,11 @@ The most interesting topic covered this quarter was using deep learning for x-ra
 
 ## **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-I’d like to investigate how to better optimize the prediciton of BNPP values within chest radiogpraphs, and also explore new biomarkers for prediction.
+I’d like to investigate how to better optimize the prediciton of BNPP values within chest radiographs, and also explore new biomarkers for prediction.
 
 ## **3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-I would have potentially changed how I researched and learned about the foundation of CNN in radiogprahy medicine, currently I am learning about is as I go but it would have been beneficial so set aside more time towards that learning.
+I would have potentially changed how I researched and learned about the foundation of CNN in radiography medicine, currently I am learning about is as I go but it would have been beneficial to set aside more time towards that learning.
 
 ## **4. What other techniques would you be interested in using in your project?**
 
